@@ -8,10 +8,10 @@ Saída
 Para cada caso mostre o resultado da divisão com um dígito após o ponto decimal, ou “divisao impossivel” caso não seja possível efetuar o cálculo.
 
  
-Exemplo de Entrada	Exemplo de Saída
-3                   -1.5
-3 -2                divisao impossivel
--8 0                0.0
+Exemplo de Entrada	  Exemplo de Saída
+3                     -1.5
+3 -2                  divisao impossivel
+-8 0                  0.0
 0 8
 
 
@@ -23,7 +23,7 @@ for (let i = 0; i < limit; i++) {
     let X = parseInt(line[0]);
     let Y = parseInt(line[1]);
     if (Y == 0) {
-        console.log("divisao impossivel");
+        console.log("divisao impossível");
     } else {
         let divisao = parseFloat(X / Y).toFixed(1);
         console.log(divisao);
