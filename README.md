@@ -4,4 +4,4 @@ Problemas aritméticos com JavaScript<br>
 Solução de Problemas Essenciais com JavaScript <br>
 Introdução à programação com C# <br>
 Resolvendo Algoritmos com C# <br>
-Solucao de Problemas Essenciais com C#
+Solução de Problemas Essenciais com C#
